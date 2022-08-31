@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-24T19:53:42 IST" name="Default suite" finished-at="2022-08-24T19:53:42 IST" duration-ms="72">
+    <groups>
+    </groups>
+    <test started-at="2022-08-24T19:53:42 IST" name="Default test" finished-at="2022-08-24T19:53:42 IST" duration-ms="72">
+      <class name="testngIntro.t1">
+        <test-method signature="abc()[pri:0, instance:testngIntro.t1@6069db50]" started-at="2022-08-24T19:53:42 IST" name="abc" finished-at="2022-08-24T19:53:42 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- abc -->
+        <test-method signature="m1()[pri:0, instance:testngIntro.t1@6069db50]" started-at="2022-08-24T19:53:42 IST" name="m1" finished-at="2022-08-24T19:53:42 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method signature="nmb()[pri:0, instance:testngIntro.t1@6069db50]" started-at="2022-08-24T19:53:42 IST" name="nmb" finished-at="2022-08-24T19:53:42 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nmb -->
+        <test-method signature="uyt()[pri:0, instance:testngIntro.t1@6069db50]" started-at="2022-08-24T19:53:42 IST" name="uyt" finished-at="2022-08-24T19:53:42 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uyt -->
+      </class> <!-- testngIntro.t1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
